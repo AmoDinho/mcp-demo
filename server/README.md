@@ -16,36 +16,16 @@ This project implements a calculator service that can be accessed through the Mo
 Clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/yourusername/mcp-calculator.git
-cd mcp-calculator
-npm install
+yarn install
 ```
 
-## Available Commands
-
-Build the project:
-
-```
-yarn run build
-```
-
-This compiles the TypeScript code to JavaScript in the dist directory.
+## Starting the server
 
 Start the server:
 
 ```
 yarn run start
 ```
-
-Runs the compiled server from the dist directory.
-
-Development mode:
-
-```
-yarn run dev
-```
-
-Runs the server in development mode with automatic reloading.
 
 ## How to test the server
 
@@ -55,7 +35,3 @@ To inspect an MCP server implementation, there's no need to clone this repo. Ins
 ```
 npx @modelcontextprotocol/inspector node src/server.ts
 ```
-
-License
-
-MIT
