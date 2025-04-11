@@ -53,7 +53,7 @@ From an MCP server repository
 To inspect an MCP server implementation, there's no need to clone this repo. Instead, use npx. For example, if your server is built at src/server.ts:
 
 ```
-npx @modelcontextprotocol/sdk inspect src/server.ts
+npx @modelcontextprotocol/inspector node src/server.ts
 ```
 
 License
