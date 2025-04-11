@@ -16,7 +16,7 @@ This project implements a calculator service that can be accessed through the Mo
 Clone the repository and install the dependencies:
 
 ```
-yarn install
+$ yarn install
 ```
 
 ## Starting the server
@@ -24,7 +24,7 @@ yarn install
 Start the server:
 
 ```
-yarn run start
+$ yarn run start
 ```
 
 ## How to test the server
