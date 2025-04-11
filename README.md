@@ -6,6 +6,10 @@ First getting the MCP server running, For MCP server instructions, see the [serv
 
 Then you can start your agent, see the [agent/README.md](agent/README.md) file.
 
+## Example response
+
+![Example response](./example-response.png)
+
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
